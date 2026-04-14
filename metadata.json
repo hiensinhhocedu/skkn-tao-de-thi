@@ -1,0 +1,5 @@
+{
+  "name": "App Tạo đề thi từ ma trận_SKKN",
+  "description": "Một ứng dụng web giúp giáo viên tạo ma trận, đặc tả, và đề thi hoàn chỉnh, đáp án một cách nhanh chóng và hiệu quả bằng AI google Gemini",
+  "requestFramePermissions": []
+}
